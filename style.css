@@ -262,10 +262,14 @@ nav ul li {
   max-width: 700px;
 }
 
+.image-card-large {
+  background-image: url("Resources/images/aboutuspic.jpg");
+}
+
 .contact-banner {
   background:
     linear-gradient(90deg, rgba(33, 29, 26, 0.76), rgba(33, 29, 26, 0.28)),
-    url("Resources/images/contactusimage.jpg") center 54% / cover no-repeat;
+    url("Resources/images/contactusimage.png") center 54% / cover no-repeat;
 }
 
 .contact-banner .content-banner-inner {
@@ -279,7 +283,7 @@ nav ul li {
 .faq-banner {
   background:
     linear-gradient(90deg, rgba(33, 29, 26, 0.76), rgba(33, 29, 26, 0.28)),
-    url("Resources/images/faqimage.jpg") center 48% / cover no-repeat;
+    url("Resources/images/faqimage.png") center 48% / cover no-repeat;
 }
 
 .faq-banner .content-banner-inner {
@@ -293,7 +297,7 @@ nav ul li {
 .products-banner {
   background:
     linear-gradient(90deg, rgba(33, 29, 26, 0.76), rgba(33, 29, 26, 0.28)),
-    url("Resources/images/support.jpg") center 52% / cover no-repeat;
+    url("Resources/images/support.png") center 52% / cover no-repeat;
 }
 
 .products-banner .content-banner-inner {
@@ -307,7 +311,7 @@ nav ul li {
 .services-banner {
   background:
     linear-gradient(90deg, rgba(33, 29, 26, 0.76), rgba(33, 29, 26, 0.28)),
-    url("Resources/images/servicesimg.jpg") center 52% / cover no-repeat;
+    url("Resources/images/servicesimg.png") center 52% / cover no-repeat;
 }
 
 .services-banner .content-banner-inner {
@@ -321,7 +325,7 @@ nav ul li {
 .tips-banner {
   background:
     linear-gradient(90deg, rgba(33, 29, 26, 0.72), rgba(33, 29, 26, 0.28)),
-    url("Resources/images/wellness2.jpg") center 52% / cover no-repeat;
+    url("Resources/images/wellness2.png") center 52% / cover no-repeat;
 }
 
 .tips-banner .content-banner-inner {
@@ -436,10 +440,6 @@ nav ul li {
   background-position: center;
 }
 
-.image-card-large {
-  background-image: url("https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80");
-}
-
 .panel-note {
   margin-top: 1.2rem;
   background: linear-gradient(180deg, rgba(184, 87, 43, 0.08), rgba(184, 87, 43, 0.02));
@@ -489,15 +489,15 @@ nav ul li {
 .first-aid-image { background-image: url("Resources/images/firstaid.jpg"); }
 .personal-care-image { background-image: url("Resources/images/personalhygiene.jpg"); }
 .accessories-image { background-image: url("Resources/images/homehealth.webp"); }
-.baby-care-image { background-image: url("Resources/images/babycare.jpg"); }
+.baby-care-image { background-image: url("Resources/images/babycare.png"); }
 .seasonal-image { background-image: url("Resources/images/seasonalwellness.jpg"); }
 .ask-image { background-image: url("Resources/images/custom.jpg"); }
 .service-help-image { background-image: url("Resources/images/productguidance.jpg"); }
 .prescription-image { background-image: url("Resources/images/prescription.webp"); }
-.support-image { background-image: url("Resources/images/customersupport.jpg"); }
-.tip-quote-image { background-image: url("https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=900&q=80"); }
-.contact-map-image { background-image: url("https://images.unsplash.com/photo-1526481280695-3c4691f8d5c4?auto=format&fit=crop&w=900&q=80"); }
-.faq-support-image { background-image: url("https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80"); }
+.support-image { background-image: url("Resources/images/customersupport.png"); }
+.tip-quote-image { background-image: url("Resources/images/wellness.jpg"); }
+.contact-map-image { background-image: url("Resources/images/contactusimage.png"); }
+.faq-support-image { background-image: url("Resources/images/faqimage.png"); }
 
 .card-copy {
   padding: 1.4rem 1.3rem 1.5rem;
