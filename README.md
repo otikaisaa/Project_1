@@ -7,3 +7,5 @@ Added products.html for product catalog with search functionality.
 Implemented services.html detailing available services.
 
 Developed style.css for consistent styling across the website.
+
+END!!!!!
